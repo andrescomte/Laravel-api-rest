@@ -1,0 +1,37 @@
+1-.En una etapa previa al inicio del desarrollo de un software,
+¿Como ud organiza y planifica actividades antes de comenzar?.
+R: especificando los requerimientos del cliente, distribuyendo los requerimientos de los mas importantes
+para el negocio del cliente a los menos importante, una vez definidos los requerimiento y ordenados. Se
+divide el proyecto en fases, y en cada fase se iran desarrollando requisitos del cliente, dividiendo el trabajo
+en el equipo de forma equivalente.
+pd: Lo ideal seria realizar una Carta Gantt jajaja
+
+2. Cómo estima el tiempo que toma desarrollar cada actividad?
+R: El tiempo lo estimo en base a los conocimientos de cada persona, y en base a su experiencia en realizar
+un requisito similar al propuesto.
+
+3-¿de que manera ud. comunica o comunicaría el estado de desarrollo
+o avance del software?¿A quién lo comunicaría?
+R: Lo comunicaría en base a los requisitos del cliente que estén terminados y funcionando, se lo
+comunicaría al equipo de desarrollo mediante reuniones semanales, y también al cliente mediante reuniones
+mensuales.
+
+4-. Si ud. esta a cargo de llevar a cabo un desarrollo ¿Como iniciaría el desarrollo ?
+Indique en pasos generales como abordaria el proyecto.
+R: Lo primero definiría a los encargados del proyecto, tener definido el equipo de desarrollo,
+el diseñador, arquitecto, QA, como también los stakeholder, que entenderan el problema del cliente
+y definirán los requisitos del proyecto.
+una vez definidos los requisitos, se procede a realizar los procesos mediante BPMN para tener
+una mejor claridad del proyecto, determinar los casos de uso para cada usuario, y luego
+ya empezar a implementar.
+
+5-. ¿Que comprende ud. por proyecto?
+R: Es un conjunto de actividades con la finalidad de lograr un objetivo, en un tiempo determinado, con
+recursos limitados.
+
+6-.Que comprende ud. por Gestionar?
+R: Es realizar una serie de actividades para lograr los objetivos de manera optima.
+
+7-.¿Cómo se gesta un proyecto?
+R: Con una serie de actividades, como determinar el alcance, la planificación de los requerimientos ,
+el diseño que tendrá el proyecto, las pruebas que se realizaran, etc.
